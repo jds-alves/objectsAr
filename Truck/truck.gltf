@@ -1,0 +1,449 @@
+{
+  "accessors": [
+    {
+      "name": "Mesh.003_Left_Rear_Left_Front_-Mesh_0_positions",
+      "componentType": 5126,
+      "count": 4660,
+      "min": [
+        -16.0067081451416,
+        -0.20819500088691711,
+        -31.567031860351562
+      ],
+      "max": [
+        16.042457580566406,
+        13.5121488571167,
+        37.43072509765625
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "name": "Mesh.003_Left_Rear_Left_Front_-Mesh_0_normals",
+      "componentType": 5126,
+      "count": 4660,
+      "min": [
+        -1,
+        -0.9888219833374023,
+        -0.9646153450012207
+      ],
+      "max": [
+        1,
+        0.9888224005699158,
+        0.9646153450012207
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "name": "Mesh.003_Left_Rear_Left_Front_-Mesh_0_texcoords",
+      "componentType": 5126,
+      "count": 4660,
+      "min": [
+        0.47791698575019836,
+        0.3501549959182739
+      ],
+      "max": [
+        0.989732027053833,
+        0.9899669885635376
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 0
+    },
+    {
+      "name": "Mesh.003_Left_Rear_Left_Front_-Mesh_0_indices",
+      "componentType": 5123,
+      "count": 19728,
+      "min": [
+        0
+      ],
+      "max": [
+        4659
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 0
+    },
+    {
+      "name": "Mesh.002_Right_Wiper-Mesh_0_positions",
+      "componentType": 5126,
+      "count": 114,
+      "min": [
+        -11.317438125610352,
+        20.618717193603516,
+        20.851547241210938
+      ],
+      "max": [
+        2.189203977584839,
+        22.613584518432617,
+        25.20484161376953
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 55920
+    },
+    {
+      "name": "Mesh.002_Right_Wiper-Mesh_0_normals",
+      "componentType": 5126,
+      "count": 114,
+      "min": [
+        -0.8207111358642578,
+        -0.9999523162841797,
+        -0.9919164180755615
+      ],
+      "max": [
+        0.9977430105209351,
+        0.9994775652885437,
+        0.9967635869979858
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 55920
+    },
+    {
+      "name": "Mesh.002_Right_Wiper-Mesh_0_texcoords",
+      "componentType": 5126,
+      "count": 114,
+      "min": [
+        0.031228000298142433,
+        0.023670999333262444
+      ],
+      "max": [
+        0.12586499750614166,
+        0.1778700053691864
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 37280
+    },
+    {
+      "name": "Mesh.002_Right_Wiper-Mesh_0_indices",
+      "componentType": 5123,
+      "count": 456,
+      "min": [
+        0
+      ],
+      "max": [
+        113
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 39456
+    },
+    {
+      "name": "Mesh.001_Left_Wiper-Mesh_0_positions",
+      "componentType": 5126,
+      "count": 106,
+      "min": [
+        -2.8718318939208984,
+        20.557373046875,
+        21.308399200439453
+      ],
+      "max": [
+        11.39102840423584,
+        22.866586685180664,
+        23.82354164123535
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 57288
+    },
+    {
+      "name": "Mesh.001_Left_Wiper-Mesh_0_normals",
+      "componentType": 5126,
+      "count": 106,
+      "min": [
+        -0.8525872230529785,
+        -0.9999523758888245,
+        -0.9932149648666382
+      ],
+      "max": [
+        0.964333713054657,
+        0.997808575630188,
+        0.9652564525604248
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 57288
+    },
+    {
+      "name": "Mesh.001_Left_Wiper-Mesh_0_texcoords",
+      "componentType": 5126,
+      "count": 106,
+      "min": [
+        0.022499000653624535,
+        0.017085000872612
+      ],
+      "max": [
+        0.05898699909448624,
+        0.17153799533843994
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 38192
+    },
+    {
+      "name": "Mesh.001_Left_Wiper-Mesh_0_indices",
+      "componentType": 5123,
+      "count": 432,
+      "min": [
+        0
+      ],
+      "max": [
+        105
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 40368
+    },
+    {
+      "name": "Mesh_TruckBody-Mesh_0_positions",
+      "componentType": 5126,
+      "count": 7312,
+      "min": [
+        -18.558361053466797,
+        3.6317100524902344,
+        -47.22358322143555
+      ],
+      "max": [
+        18.558361053466797,
+        34.39622116088867,
+        45.238792419433594
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 58560
+    },
+    {
+      "name": "Mesh_TruckBody-Mesh_0_normals",
+      "componentType": 5126,
+      "count": 7312,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 58560
+    },
+    {
+      "name": "Mesh_TruckBody-Mesh_0_texcoords",
+      "componentType": 5126,
+      "count": 7312,
+      "min": [
+        0.013024000450968742,
+        0.015197999775409698
+      ],
+      "max": [
+        0.9904360175132751,
+        0.9889190196990967
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 39040
+    },
+    {
+      "name": "Mesh_TruckBody-Mesh_0_indices",
+      "componentType": 5123,
+      "count": 34992,
+      "min": [
+        0
+      ],
+      "max": [
+        7311
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 41232
+    }
+  ],
+  "asset": {
+    "generator": "obj2gltf",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "name": "truck",
+      "byteLength": 501360,
+      "uri": "truck.bin"
+    }
+  ],
+  "bufferViews": [
+    {
+      "name": "bufferView_0",
+      "buffer": 0,
+      "byteLength": 146304,
+      "byteOffset": 0,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_1",
+      "buffer": 0,
+      "byteLength": 146304,
+      "byteOffset": 146304,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_2",
+      "buffer": 0,
+      "byteLength": 97536,
+      "byteOffset": 292608,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_3",
+      "buffer": 0,
+      "byteLength": 111216,
+      "byteOffset": 390144,
+      "target": 34963
+    }
+  ],
+  "images": [
+    {
+      "name": "truck",
+      "uri": "truck.jpg"
+    }
+  ],
+  "materials": [
+    {
+      "name": "blinn1SG",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Mesh.003_Left_Rear_Left_Front_-Mesh",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Mesh.002_Right_Wiper-Mesh",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Mesh.001_Left_Wiper-Mesh",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 8,
+            "NORMAL": 9,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Mesh_TruckBody-Mesh",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 12,
+            "NORMAL": 13,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Mesh.003_Left_Rear_Left_Front_",
+      "mesh": 0
+    },
+    {
+      "name": "Mesh.002_Right_Wiper",
+      "mesh": 1
+    },
+    {
+      "name": "Mesh.001_Left_Wiper",
+      "mesh": 2
+    },
+    {
+      "name": "Mesh_TruckBody",
+      "mesh": 3
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9986,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "truck",
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
