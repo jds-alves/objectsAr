@@ -36,7 +36,7 @@ newmtl _Metal_Corrogated_Shiny_1
 Ka 0.000000 0.000000 0.000000
 Kd 0.827451 0.741176 0.486275
 Ks 0.330000 0.330000 0.330000
-map_Kd BAN-01/_Metal_Corrogated_Shiny_1.jpg
+map_Kd _Metal_Corrogated_Shiny_1.jpg
 
 newmtl M_0020_Red
 Ka 0.000000 0.000000 0.000000
@@ -92,7 +92,7 @@ newmtl Fencing_Construction
 Ka 0.000000 0.000000 0.000000
 Kd 0.952941 0.854902 0.843137
 Ks 0.330000 0.330000 0.330000
-map_Kd BAN-01/Fencing_Construction.png
+map_Kd Fencing_Construction.png
 
 newmtl M_0128_White
 Ka 0.000000 0.000000 0.000000
