@@ -1,0 +1,1081 @@
+{
+  "accessors": [
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_0_positions",
+      "componentType": 5126,
+      "count": 17,
+      "min": [
+        -3.6095599657148683e-16,
+        0.10305900126695633,
+        -0.7909129858016968
+      ],
+      "max": [
+        1.4927799701690674,
+        0.365896999835968,
+        0.07888209819793701
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_0_normals",
+      "componentType": 5126,
+      "count": 17,
+      "min": [
+        -1,
+        -1,
+        -3.921439879174066e-16
+      ],
+      "max": [
+        1.0853700191615313e-16,
+        1,
+        1.2031900521933383e-16
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_0_texcoords",
+      "componentType": 5126,
+      "count": 17,
+      "min": [
+        -162.2050018310547,
+        -119.9489974975586
+      ],
+      "max": [
+        183.3730010986328,
+        -8.462080001831055
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 0
+    },
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_0_indices",
+      "componentType": 5123,
+      "count": 27,
+      "min": [
+        0
+      ],
+      "max": [
+        16
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 0
+    },
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_1_positions",
+      "componentType": 5126,
+      "count": 233,
+      "min": [
+        -3.6095599657148683e-16,
+        -5.414339948572303e-16,
+        -0.7909129858016968
+      ],
+      "max": [
+        1.5022000074386597,
+        0.6959999799728394,
+        0.10000000149011612
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 204
+    },
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_1_normals",
+      "componentType": 5126,
+      "count": 233,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 204
+    },
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_1_texcoords",
+      "componentType": 5126,
+      "count": 233,
+      "min": [
+        -203.93699645996094,
+        -167.4219970703125
+      ],
+      "max": [
+        203.93699645996094,
+        141.5279998779297
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 136
+    },
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_1_indices",
+      "componentType": 5123,
+      "count": 297,
+      "min": [
+        0
+      ],
+      "max": [
+        232
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 56
+    },
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_2_positions",
+      "componentType": 5126,
+      "count": 739,
+      "min": [
+        -3.6095599657148683e-16,
+        -5.414339948572303e-16,
+        -0.7909129858016968
+      ],
+      "max": [
+        1.5022000074386597,
+        0.678600013256073,
+        0.09274999797344208
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 3000
+    },
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_2_normals",
+      "componentType": 5126,
+      "count": 739,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 3000
+    },
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_2_texcoords",
+      "componentType": 5126,
+      "count": 739,
+      "min": [
+        -203.93699645996094,
+        -167.4219970703125
+      ],
+      "max": [
+        203.93699645996094,
+        141.5279998779297
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 2000
+    },
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_2_indices",
+      "componentType": 5123,
+      "count": 1095,
+      "min": [
+        0
+      ],
+      "max": [
+        738
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 652
+    },
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_3_positions",
+      "componentType": 5126,
+      "count": 1886,
+      "min": [
+        -3.6095599657148683e-16,
+        -5.414339948572303e-16,
+        -0.7909129858016968
+      ],
+      "max": [
+        1.3977999687194824,
+        0.6959999799728394,
+        0.10000000149011612
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 11868
+    },
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_3_normals",
+      "componentType": 5126,
+      "count": 1886,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 11868
+    },
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_3_texcoords",
+      "componentType": 5126,
+      "count": 1886,
+      "min": [
+        -1.9729199409484863,
+        0.23204800486564636
+      ],
+      "max": [
+        0.24625800549983978,
+        1.9934719800949097
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 7912
+    },
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_3_indices",
+      "componentType": 5123,
+      "count": 2400,
+      "min": [
+        0
+      ],
+      "max": [
+        1885
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 2844
+    },
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_4_positions",
+      "componentType": 5126,
+      "count": 302,
+      "min": [
+        -3.6095599657148683e-16,
+        0.10305900126695633,
+        -0.7909129858016968
+      ],
+      "max": [
+        1.1948000192642212,
+        0.6959999799728394,
+        0.10000000149011612
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 34500
+    },
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_4_normals",
+      "componentType": 5126,
+      "count": 302,
+      "min": [
+        -1,
+        -0.5705198645591736,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 34500
+    },
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_4_texcoords",
+      "componentType": 5126,
+      "count": 302,
+      "min": [
+        -53.742000579833984,
+        -32.76639938354492
+      ],
+      "max": [
+        53.742000579833984,
+        3.3018100261688232
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 23000
+    },
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_4_indices",
+      "componentType": 5123,
+      "count": 468,
+      "min": [
+        0
+      ],
+      "max": [
+        301
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 7644
+    },
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_5_positions",
+      "componentType": 5126,
+      "count": 699,
+      "min": [
+        0.38100600242614746,
+        0.36284300684928894,
+        0.053599998354911804
+      ],
+      "max": [
+        0.7782930135726929,
+        0.5223429799079895,
+        0.05649999901652336
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 38124
+    },
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_5_normals",
+      "componentType": 5126,
+      "count": 699,
+      "min": [
+        -1,
+        -1,
+        -3.9084106595607226e-16
+      ],
+      "max": [
+        1,
+        0.9994645714759827,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 38124
+    },
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_5_texcoords",
+      "componentType": 5126,
+      "count": 699,
+      "min": [
+        -101.50700378417969,
+        -113.91899871826172
+      ],
+      "max": [
+        105.66000366210938,
+        88.9468994140625
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 25416
+    },
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1_5_indices",
+      "componentType": 5123,
+      "count": 1095,
+      "min": [
+        0
+      ],
+      "max": [
+        698
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 8580
+    },
+    {
+      "name": "Mesh2 vtc_200c_2_1 vtc_200c_II1 Model_1_0_positions",
+      "componentType": 5126,
+      "count": 264,
+      "min": [
+        0.5951499938964844,
+        0.3817119896411896,
+        0.05649999901652336
+      ],
+      "max": [
+        0.6096500158309937,
+        0.49771198630332947,
+        0.08550000190734863
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 46512
+    },
+    {
+      "name": "Mesh2 vtc_200c_2_1 vtc_200c_II1 Model_1_0_normals",
+      "componentType": 5126,
+      "count": 264,
+      "min": [
+        -1,
+        -1,
+        -0.9994645714759827
+      ],
+      "max": [
+        1,
+        1,
+        2.7324399846576216e-15
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 46512
+    },
+    {
+      "name": "Mesh2 vtc_200c_2_1 vtc_200c_II1 Model_1_0_texcoords",
+      "componentType": 5126,
+      "count": 264,
+      "min": [
+        -0.6720240116119385,
+        0.7594630122184753
+      ],
+      "max": [
+        -0.253262996673584,
+        0.9968500733375549
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 31008
+    },
+    {
+      "name": "Mesh2 vtc_200c_2_1 vtc_200c_II1 Model_1_0_indices",
+      "componentType": 5123,
+      "count": 354,
+      "min": [
+        0
+      ],
+      "max": [
+        263
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 10772
+    },
+    {
+      "name": "Mesh2 vtc_200c_2_1 vtc_200c_II1 Model_1_1_positions",
+      "componentType": 5126,
+      "count": 212,
+      "min": [
+        0.5951499938964844,
+        0.3817119896411896,
+        0.05649999901652336
+      ],
+      "max": [
+        0.6096500158309937,
+        0.49771198630332947,
+        0.08550000190734863
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 49680
+    },
+    {
+      "name": "Mesh2 vtc_200c_2_1 vtc_200c_II1 Model_1_1_normals",
+      "componentType": 5126,
+      "count": 212,
+      "min": [
+        -1,
+        -1,
+        -2.7324399846576216e-15
+      ],
+      "max": [
+        1,
+        1,
+        0.9994645714759827
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 49680
+    },
+    {
+      "name": "Mesh2 vtc_200c_2_1 vtc_200c_II1 Model_1_1_texcoords",
+      "componentType": 5126,
+      "count": 212,
+      "min": [
+        -82.7654037475586,
+        -66.56890106201172
+      ],
+      "max": [
+        82.7654037475586,
+        0.9087985157966614
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 33120
+    },
+    {
+      "name": "Mesh2 vtc_200c_2_1 vtc_200c_II1 Model_1_1_indices",
+      "componentType": 5123,
+      "count": 354,
+      "min": [
+        0
+      ],
+      "max": [
+        211
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 11480
+    },
+    {
+      "name": "Mesh3 vtc_200c_2_1 vtc_200c_II1 Model_1_0_positions",
+      "componentType": 5126,
+      "count": 8,
+      "min": [
+        0.9283120036125183,
+        0.25301599502563477,
+        0.09274999797344208
+      ],
+      "max": [
+        1.061710000038147,
+        0.5082160234451294,
+        0.09274999797344208
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 52224
+    },
+    {
+      "name": "Mesh3 vtc_200c_2_1 vtc_200c_II1 Model_1_0_normals",
+      "componentType": 5126,
+      "count": 8,
+      "min": [
+        -7.458932958247558e-16,
+        0,
+        -1
+      ],
+      "max": [
+        7.458932958247558e-16,
+        0,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 52224
+    },
+    {
+      "name": "Mesh3 vtc_200c_2_1 vtc_200c_II1 Model_1_0_texcoords",
+      "componentType": 5126,
+      "count": 8,
+      "min": [
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 34816
+    },
+    {
+      "name": "Mesh3 vtc_200c_2_1 vtc_200c_II1 Model_1_0_indices",
+      "componentType": 5123,
+      "count": 12,
+      "min": [
+        0
+      ],
+      "max": [
+        7
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 12188
+    },
+    {
+      "name": "Mesh4 vtc_200c_2_1 vtc_200c_II1 Model_1_0_positions",
+      "componentType": 5126,
+      "count": 8,
+      "min": [
+        0.08406189829111099,
+        0.5560579895973206,
+        0.07100000232458115
+      ],
+      "max": [
+        0.20891200006008148,
+        0.6037949919700623,
+        0.07100000232458115
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 52320
+    },
+    {
+      "name": "Mesh4 vtc_200c_2_1 vtc_200c_II1 Model_1_0_normals",
+      "componentType": 5126,
+      "count": 8,
+      "min": [
+        -1.8636980064816672e-16,
+        -1.2150977472449577e-16,
+        -1
+      ],
+      "max": [
+        1.8636980064816672e-16,
+        1.2150977472449577e-16,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 52320
+    },
+    {
+      "name": "Mesh4 vtc_200c_2_1 vtc_200c_II1 Model_1_0_texcoords",
+      "componentType": 5126,
+      "count": 8,
+      "min": [
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 34880
+    },
+    {
+      "name": "Mesh4 vtc_200c_2_1 vtc_200c_II1 Model_1_0_indices",
+      "componentType": 5123,
+      "count": 12,
+      "min": [
+        0
+      ],
+      "max": [
+        7
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 12212
+    }
+  ],
+  "asset": {
+    "generator": "obj2gltf",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "name": "centrouv000002",
+      "byteLength": 152012,
+      "uri": "centrouv000002.bin"
+    }
+  ],
+  "bufferViews": [
+    {
+      "name": "bufferView_0",
+      "buffer": 0,
+      "byteLength": 52416,
+      "byteOffset": 0,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_1",
+      "buffer": 0,
+      "byteLength": 52416,
+      "byteOffset": 52416,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_2",
+      "buffer": 0,
+      "byteLength": 34944,
+      "byteOffset": 104832,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_3",
+      "buffer": 0,
+      "byteLength": 12236,
+      "byteOffset": 139776,
+      "target": 34963
+    }
+  ],
+  "images": [
+    {
+      "name": "mazak__vtc",
+      "uri": "mazak__vtc.jpg"
+    },
+    {
+      "name": "beyaz_",
+      "uri": "beyaz_.png"
+    },
+    {
+      "name": "konsol",
+      "uri": "konsol.jpg"
+    },
+    {
+      "name": "logo",
+      "uri": "logo.jpg"
+    }
+  ],
+  "materials": [
+    {
+      "name": "FrontColor",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    },
+    {
+      "name": "BackColor",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.643137,
+          0.698039,
+          0.733333,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    },
+    {
+      "name": "M_96_96_96",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.380392,
+          0.380392,
+          0.380392,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    },
+    {
+      "name": "mazak__vtc",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    },
+    {
+      "name": "beyaz_",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    },
+    {
+      "name": "jean_blue",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.592157,
+          0.776471,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    },
+    {
+      "name": "konsol",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    },
+    {
+      "name": "logo",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model_1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 8,
+            "NORMAL": 9,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 12,
+            "NORMAL": 13,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 16,
+            "NORMAL": 17,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 4,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 20,
+            "NORMAL": 21,
+            "TEXCOORD_0": 22
+          },
+          "indices": 23,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Mesh2 vtc_200c_2_1 vtc_200c_II1 Model_1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 24,
+            "NORMAL": 25,
+            "TEXCOORD_0": 26
+          },
+          "indices": 27,
+          "material": 3,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 28,
+            "NORMAL": 29,
+            "TEXCOORD_0": 30
+          },
+          "indices": 31,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Mesh3 vtc_200c_2_1 vtc_200c_II1 Model_1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 32,
+            "NORMAL": 33,
+            "TEXCOORD_0": 34
+          },
+          "indices": 35,
+          "material": 6,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Mesh4 vtc_200c_2_1 vtc_200c_II1 Model_1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 36,
+            "NORMAL": 37,
+            "TEXCOORD_0": 38
+          },
+          "indices": 39,
+          "material": 7,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Mesh1 vtc_200c_2_1 vtc_200c_II1 Model",
+      "mesh": 0
+    },
+    {
+      "name": "Mesh2 vtc_200c_2_1 vtc_200c_II1 Model",
+      "mesh": 1
+    },
+    {
+      "name": "Mesh3 vtc_200c_2_1 vtc_200c_II1 Model",
+      "mesh": 2
+    },
+    {
+      "name": "Mesh4 vtc_200c_2_1 vtc_200c_II1 Model",
+      "mesh": 3
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9986,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "mazak__vtc",
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "name": "beyaz_",
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "name": "konsol",
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "name": "logo",
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}
