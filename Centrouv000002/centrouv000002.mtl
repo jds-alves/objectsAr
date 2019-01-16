@@ -21,13 +21,13 @@ newmtl beyaz_
 Ka 0.000000 0.000000 0.000000
 Kd 0.839216 0.854902 0.866667
 Ks 0.330000 0.330000 0.330000
-map_Kd centrouv000002/beyaz_.png
+map_Kd beyaz_.png
 
 newmtl mazak__vtc
 Ka 0.000000 0.000000 0.000000
 Kd 0.917647 0.917647 0.917647
 Ks 0.330000 0.330000 0.330000
-map_Kd centrouv000002/mazak__vtc.jpg
+map_Kd mazak__vtc.jpg
 
 newmtl jean_blue
 Ka 0.000000 0.000000 0.000000
@@ -38,13 +38,13 @@ newmtl konsol
 Ka 0.000000 0.000000 0.000000
 Kd 0.501961 0.501961 0.501961
 Ks 0.000000 0.000000 0.000000
-map_Kd centrouv000002/konsol.jpg
+map_Kd konsol.jpg
 
 newmtl logo
 Ka 0.000000 0.000000 0.000000
 Kd 0.501961 0.501961 0.501961
 Ks 0.000000 0.000000 0.000000
-map_Kd centrouv000002/logo.jpg
+map_Kd logo.jpg
 
 newmtl ForegroundColor
 Ka 0.000000 0.000000 0.000000
