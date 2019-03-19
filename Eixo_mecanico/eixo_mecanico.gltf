@@ -1,0 +1,191 @@
+{
+  "accessors": [
+    {
+      "name": "Mesh1 eixo1 Eixo_estriado1 Model_1_0_positions",
+      "componentType": 5126,
+      "count": 2232,
+      "min": [
+        -16.6028995513916,
+        5.244150161743164,
+        -214.76400756835938
+      ],
+      "max": [
+        -14.773099899291992,
+        5.5823798179626465,
+        -214.39599609375
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "name": "Mesh1 eixo1 Eixo_estriado1 Model_1_0_normals",
+      "componentType": 5126,
+      "count": 2232,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "name": "Mesh1 eixo1 Eixo_estriado1 Model_1_0_texcoords",
+      "componentType": 5126,
+      "count": 2232,
+      "min": [
+        -0.12198200076818466,
+        0.940339982509613
+      ],
+      "max": [
+        0.12198200076818466,
+        1.0519587993621826
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 0
+    },
+    {
+      "name": "Mesh1 eixo1 Eixo_estriado1 Model_1_0_indices",
+      "componentType": 5123,
+      "count": 4152,
+      "min": [
+        0
+      ],
+      "max": [
+        2231
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 0
+    }
+  ],
+  "asset": {
+    "generator": "obj2gltf",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "name": "eixo_mecanico",
+      "byteLength": 79728,
+      "uri": "eixo_mecanico.bin"
+    }
+  ],
+  "bufferViews": [
+    {
+      "name": "bufferView_0",
+      "buffer": 0,
+      "byteLength": 26784,
+      "byteOffset": 0,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_1",
+      "buffer": 0,
+      "byteLength": 26784,
+      "byteOffset": 26784,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_2",
+      "buffer": 0,
+      "byteLength": 17856,
+      "byteOffset": 53568,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_3",
+      "buffer": 0,
+      "byteLength": 8304,
+      "byteOffset": 71424,
+      "target": 34963
+    }
+  ],
+  "images": [
+    {
+      "name": "Aluminum",
+      "uri": "Aluminum.jpg"
+    }
+  ],
+  "materials": [
+    {
+      "name": "Aluminum",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Mesh1 eixo1 Eixo_estriado1 Model_1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Mesh1 eixo1 Eixo_estriado1 Model",
+      "mesh": 0
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9986,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "Aluminum",
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
