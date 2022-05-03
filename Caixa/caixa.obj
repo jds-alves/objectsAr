@@ -2,7 +2,7 @@
 # Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
 # File units = meters
 
-mtllib https://raw.githubusercontent.com/jds-alves/objectsAr/master/Caixa/caixa.mtl
+mtllib caixa.mtl
 
 g Mesh1 Model
 
